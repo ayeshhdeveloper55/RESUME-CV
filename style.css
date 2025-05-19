@@ -1,0 +1,551 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+body{
+    background-color: black;
+
+}
+/* SECTION 01 */
+.container{
+    display: flex;
+    width: 100%;
+    
+  
+}
+.sec1{
+    width: 75%;
+}
+
+.sec2 img{
+    width: 340px;
+    height: 420px;
+}
+.se1{
+    background-color: #FFCC00;
+    padding: 60px;
+   
+}
+.se1 h1{
+    font-size: 60px;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.web{
+    background-color: black;
+   padding: 7px;
+    color: #FFCC00;
+  
+}
+.web:hover{
+    background-color: rgb(111, 109, 109);
+    color: black;
+    border: 2px solid black;
+    transition:1s;
+    
+}
+a{
+    text-decoration: none;
+}
+.se1 p{
+    color: rgb(23, 23, 23);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+.se2{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    padding: 10px;
+    border-bottom: 1px solid;
+    box-shadow: 2px  2px 4px gray;
+
+}
+.one{
+    display: flex;
+}
+.ico1 i{
+    color: #FFCC00;
+    padding-top: 8px;
+    padding-right: 15px;
+    font-size: 20px;
+
+} 
+.per{
+    color: white;
+}
+.pro{
+    color: #FFCC00;
+}
+/* SECTION 02 */
+.container2{
+    background-color: rgb(0, 0, 0,0.9);
+    width: 100%;
+    display: flex;
+   
+   
+    
+}
+.column1{
+    width: 35%;
+    color: white;
+    padding-left: 100px; 
+    padding-top: 70px;
+
+    
+}
+.head{
+    font-size: 25px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+     padding-bottom: 30px;
+     color: white;
+      
+}
+.in{
+    color: white;
+    font-size: 25px;
+
+}
+.on{
+    padding-left: 20px;
+    font-size: 15px;
+    color: white;
+    font-weight: 700;
+   
+}
+.onn{
+    
+    font-size: 15px;
+    color: white;
+    font-weight: 700;
+}
+.gold{
+    background-color: #FFCC00;
+    color: black;
+    border-radius:50% ;
+    padding: 4px;
+}
+.column2{
+    width:65%;
+    padding-top: 70px;
+    
+}
+.skill{
+    display: flex;
+}
+.progress-bar {
+  width: 40%;
+  background-color: rgb(128, 128, 128, 0.5);
+  border-radius: 20px;
+  overflow: hidden;
+  height: 20px;
+  border: 2px solid #FFCC00;
+
+  
+}
+.hob1{
+    display: flex;
+    gap: 150px;
+}
+.hob2{
+    display: flex;
+    gap: 160px;
+}
+.hob3{
+    display: flex;
+    gap: 150px;
+}
+.hob4{
+    display: flex;
+    gap: 170px;
+}
+.golb{
+    color: #FFCC00;
+    font-size: 25px;
+}
+.hobbies{
+    padding-bottom: 50px;
+}
+
+.progress {
+  height: 100%;
+  background-color: #FFCC00;
+  border-radius: 20px;
+  transition: width 0.5s ease-in-out;
+  
+}
+/* column2 */
+.headd{
+    font-size: 30px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      
+      
+      padding-bottom: 10px;
+      color: white;
+      padding-top: 20px;    
+}
+.matric{
+    display: flex;
+    gap: 200px;
+}
+.mt1{
+    padding-left: 20px;
+    font-size: 15px;
+    color: white;
+    font-weight: 700;
+    
+}
+.mt3{
+    color: #FFCC00;
+
+}
+.mt4{
+    color: white;
+    
+}
+
+.intermediate{
+    display: flex;
+    gap: 200px;
+}
+.exp11{
+    display: flex;
+    gap: 350px;
+    color: white;
+}
+.exp22{
+    display: flex;
+    gap: 380px;
+    color: white;
+}
+.exp33{
+    display: flex;
+    gap: 280px;
+    color: white;
+}
+.exp1{
+    color: #FFCC00;
+    font-size: 22px;
+}
+.exp22{
+    color: white;
+}
+
+.exp3{
+    color: white;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.exp4{
+    color: gray;
+}
+.last{
+    display: flex;
+}
+.headdd{
+    font-size: 30px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      border-bottom: 2px solid black;
+
+      
+      padding-bottom: 10px;
+      color: white;
+      padding-top: 20px;    
+}
+.ht1{
+    margin: 2px 0;
+    border-color: gray;
+    height: 5px;
+    width: 300px;
+}
+.ht2{
+    margin: 2px 0;
+    border-color: gray;
+    height: 5px;
+    width: 300px;
+}
+.ht3{
+    margin: 2px 0;
+    border-color: gray;
+    height: 5px;
+    width: 300px;
+}
+.ht4{
+    margin: 2px 0;
+    border-color: gray;
+    height: 5px;
+    width: 300px;
+}
+.ht5{
+    margin: 2px 0;
+    border-color: gray;
+    height: 5px;
+    width: 70%;
+}
+.ht6{
+    margin: 2px 0;
+    border-color: gray;
+    height: 5px;
+    width: 600px;
+}
+.ht7{
+    margin: 2px 0;
+    border-color: gray;
+    height: 5px;
+    width: 300px;
+}
+.ht8{
+    margin: 2px 0;
+    border-color: gray;
+    height: 5px;
+    width: 300px;
+}
+/* last dev */
+.last{
+    color: white;
+}
+.inntt{
+    display: flex;
+}
+.lang1{
+    padding-left: 15px;
+}
+.int1{
+   padding-right: 13px;
+   text-align: center;
+}
+.languages{
+    margin-left: 40px;
+}
+.con{
+    color: #FFCC00;
+    font-size: 22px;
+}
+
+
+
+
+/* All DEVICES MEDIA QUERY */
+@media (max-width:768px){
+      .container2{
+        display: flex;
+       display: block;
+        flex-wrap: wrap;
+    }
+    .mainfoll{
+        display: block;
+        gap: 200px;
+        width: 100%;
+        
+        
+    }
+    .in{
+    color: white;
+    font-size: 15px;
+
+}
+.on{
+    padding-left: 20px;
+    font-size: 15px;
+    color: white;
+    font-weight: 800;
+    
+   
+}
+    .follow{
+       width: 40%;
+       display: block;
+       
+        
+    }
+    .contact{
+         width: 40%;
+        
+        
+        
+    }
+    .mainfoll2{
+        display: flex;
+        row-gap: 300px;
+        width: 50%;
+        display: block;
+        
+    
+    }
+    
+    .hobbies{
+        padding-left: 200px;
+    }
+    .column2{
+        width: 80%;
+        justify-content: center;
+       margin-left: 130px;
+       font-size: 20px;
+    }
+    
+    
+}
+@media (max-width:1136px){
+      .container2{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .mainfoll{
+        display: flex;
+        gap: 200px;
+        width: 100%;
+        
+        
+    }
+    .in{
+    color: white;
+    font-size: 15px;
+
+}
+.on{
+    padding-left: 20px;
+    font-size: 15px;
+    color: white;
+    font-weight: 800;
+    
+   
+}
+    .follow{
+       width: 40%;
+       
+        
+    }
+    .contact{
+         width: 40%;
+        
+        
+    }
+    .mainfoll2{
+        display: flex;
+        row-gap: 300px;
+        width: 50%;
+        
+    
+    }
+    
+    .hobbies{
+        padding-left: 200px;
+    }
+    .column2{
+        width: 80%;
+        justify-content: center;
+       margin-left: 130px;
+       font-size: 20px;
+    }
+    
+    
+}
+@media (max-width:1169px ) and (min-width:1034px ) {
+    .sec2 img{
+    width: 340px;
+    height: 430px;
+}
+
+  
+}
+@media (max-width:1033px ) and (min-width:1023px) {
+    .sec2 img{
+    width: 340px;
+    height: 400px;
+}
+.se1 h1{
+    font-size: 40px;
+    font-weight: 00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+  
+}
+@media (max-width:1023px ) and (min-width:1014px) {
+    .sec2 img{
+    width: 340px;
+    height: 400px;
+}
+.se1 h1{
+    font-size: 40px;
+    font-weight: 00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+
+  
+}
+
+@media (max-width:1014px ) and (min-width:935px) {
+    .sec2 img{
+    width: 340px;
+    height: 430px;
+}
+.se1 h1{
+    font-size: 40px;
+    font-weight: 00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+  
+}
+@media (max-width:935px ) and (min-width:873px) {
+    .sec2 img{
+    width: 340px;
+    height: 450px;
+}
+.se1 h1{
+    font-size: 40px;
+    font-weight: 00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+  
+}
+@media (max-width:873px ) and (min-width:495px) {
+    .sec2 img{
+    width: 100%;
+    height: 800px;
+}
+.se1 h1{
+    font-size: 40px;
+    font-weight: 00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.sec1{
+    width: 100%;
+}
+
+
+  
+}
+@media (max-width:495px ) and (min-width:240px) {
+    .sec2 img{
+    width: 100%;
+    height: 400px;
+}
+.se1 h1{
+    font-size: 40px;
+    font-weight: 00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.sec1{
+    width: 100%;
+}
+  
+}
